@@ -1,0 +1,17 @@
+=== Your Title Goes Here ===
+
+{{Snippet Header
+
+| AuthorURL=35302-guinness <<<<< Change To Your Name Here ( Copy User Name Link Location to get the entry number e.g. forum/user/35302-guinness)
+
+| AuthorName=guinness <<<<< Change To Your Name Here
+
+}}
+
+<syntaxhighlight lang="autoit">
+
+Your AutoIt Snippet Code goes here between the syntax highlights so it shows like AutoIt would show it.
+
+</syntaxhighlight>
+
+[[#top | ReturnToContents]]
